@@ -1,1 +1,1 @@
-# yahoo-address-list
+address-list
